@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **khalidshabbir09@gmail.com**
 
-- 📄 Know about my experiences [https://www.khalidshabbir.tech/](https://www.khalidshabbir.dev/)
+- 📄 Know about my experiences [https://www.khalidshabbir.dev/](https://www.khalidshabbir.dev/)
 
 - ⚡ Fun fact **Nature lover**
 
