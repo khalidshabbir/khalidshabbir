@@ -22,7 +22,7 @@
 ### 🌐 Connect With Me
 <p align="left">
 <a href="https://twitter.com/code_align"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://instagram.com/developby.khalid"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="http://linkedin.com/in/khalidshabbir"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/khalidshabbir"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
