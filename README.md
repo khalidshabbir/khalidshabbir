@@ -13,7 +13,7 @@
 - 🔥 Building scalable **full-stack applications**
 - ⚡ Strong in **React, Next.js, Vue, Nuxt**
 - 🧠 Backend focused with **Node.js & FastAPI**
-- 📝 Writing at: https://www.softaligns.com/
+- 📝 Writing at: https://www.khalidshabbir.dev/blogs
 - 🌐 Portfolio: https://www.khalidshabbir.dev/
 - 📫 Email: **khalidshabbir09@gmail.com**
 
